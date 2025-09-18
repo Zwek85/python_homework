@@ -1,0 +1,15 @@
+Task5
+Which sections of the website are restricted for crawling?
+Disallow: /w/
+Disallow: /api/
+Disallow: /trap/
+Disallow: /wiki/Special:
+
+Are there specific rules for certain user agents?
+User-agent: Mediapartners-Google*
+Disallow: /
+
+Reflection 
+Websites use robots.txt to control and limit 
+the behavior of web crawlers to protect potentially sensitive content.
+
