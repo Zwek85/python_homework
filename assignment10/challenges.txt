@@ -1,0 +1,6 @@
+Task 6 
+describe any challenges you faced in completing this assignment and how you resolved them
+
+
+
+One challenge was figuring out the correct XPath to target only the Top 10 items since the page had other links as well. I had to inspect the page source carefully. Another challenge was that some class names were long so I used XPath with partial class matching. Using headless mode with Selenium helped avoid pop-ups during this assignment. 
